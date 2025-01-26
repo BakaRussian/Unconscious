@@ -9,7 +9,7 @@ namespace Unconscious.src.Config
         public List<string> EnabledDamageTypes { get; set; }
 
         //public string UnconsciousDurationDescription = "timer in seconds, while unconscious after it reaches 0 it will kill you";
-        public int UnconsciousDuration = 300;
+        public int UnconsciousDuration = 20;
 
         //public string FinishingTimerDescription = "timer in seconds, after it reaches 0 the finish button will be enabled";
         public int FinishingTimer = 3;
